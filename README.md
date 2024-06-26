@@ -4,5 +4,5 @@ A blog website made using ReactJs and Firebase
 
 
 
-<a>View Live Website</a>
+<a href="https://blogbridges.netlify.app/login">View Live Website</a>
 
